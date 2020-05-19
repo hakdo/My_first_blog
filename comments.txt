@@ -1,0 +1,1 @@
+You probably don't want your Python environment files in the app folder. Also keeping the venv file out of your project folder is a good idea.
